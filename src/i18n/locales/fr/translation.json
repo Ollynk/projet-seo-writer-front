@@ -1,0 +1,20 @@
+{
+    "welcome": "Bienvenue sur notre site",
+    "hero": {
+        "title-1": "L'IA la plus avancée ",
+        "title": "qui génere du contenu optimisé pour le SEO",
+        "subtitle": "Générez du contenu unique et optimisé pour le référencement",
+        "button": "Commencez gratuitement",
+        "nocb": "Pas de carte de crédit requise",
+        "placeholder": "www.votredomaine.com"
+    },
+    "steps-section": {
+        "title": "Obtenez des articles optimisés pour le SEO en quelques secondes",
+        "steps": {
+            "1": "Entrez votre domaine",
+            "2": "Trouvez vos concurrents",
+            "3": "Obtenez vos mots-clés",
+            "4": "Obtenez votre article"
+        }
+    }
+}

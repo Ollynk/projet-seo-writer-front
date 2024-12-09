@@ -1,0 +1,20 @@
+{
+    "welcome": "Welcome to our website",
+    "hero": {
+        "title-1": "The most advanced AI ",
+        "title": "that generates SEO-optimized content",
+        "subtitle": "Generate unique content optimized for search engines",
+        "button": "Get Started Free",
+        "nocb": "No credit card required",
+        "placeholder": "www.yourdomain.com"
+    },
+    "steps-section": {
+        "title": "Get Articles Optimized for SEO in Seconds",
+        "steps": {
+            "1": "Enter Your Domain",
+            "2": "Find Your Competitors",
+            "3": "Get Your Keywords",
+            "4": "Get Your Article"
+        }
+    }
+}
